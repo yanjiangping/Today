@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Workspaces\\Today\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\Workspaces\\Today\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspaces\\Today\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nopicture.png",
+        "source": "D:\\Android\\Workspaces\\Today\\app\\src\\main\\res\\drawable-hdpi\\nopicture.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspaces\\Today\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\log.png",
+        "source": "D:\\Android\\Workspaces\\Today\\app\\src\\main\\res\\drawable-hdpi\\log.png"
+    },
+    {
+        "merged": "D:\\Android\\Workspaces\\Today\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcome.png",
+        "source": "D:\\Android\\Workspaces\\Today\\app\\src\\main\\res\\drawable-hdpi\\welcome.png"
+    }
+]
