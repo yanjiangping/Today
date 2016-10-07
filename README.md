@@ -1,1 +1,1 @@
-Today目前是一个android新闻app
+Today目前是一个Android新闻App
